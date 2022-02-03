@@ -14,4 +14,4 @@ $ cd Gy-FastCrack
 $ git pull
 $ python2 Gi_enc.py
 ```
-#### AnggiTzy√
+#### AnggiTzy√ Bantu Support Akun Ini;)
